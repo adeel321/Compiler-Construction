@@ -1,0 +1,6 @@
+C:\Users\muham\source\repos\My Compiler\My Compiler\bin\Debug\My Compiler.exe.config
+C:\Users\muham\source\repos\My Compiler\My Compiler\bin\Debug\My Compiler.exe
+C:\Users\muham\source\repos\My Compiler\My Compiler\bin\Debug\My Compiler.pdb
+C:\Users\muham\source\repos\My Compiler\My Compiler\obj\Debug\My Compiler.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\My Compiler\My Compiler\obj\Debug\My Compiler.exe
+C:\Users\muham\source\repos\My Compiler\My Compiler\obj\Debug\My Compiler.pdb
